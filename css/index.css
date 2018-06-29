@@ -11,7 +11,7 @@ body{
     color: white;
 }
 
-h2{color:black;}
+h2{color:#9D6381;}
 p{color:black;}
 h3{color:black;}
 h4{color:#9D6381;}
@@ -35,4 +35,7 @@ li
 	background-position: center;
 }
 
+.project-img{
+	padding:10px;
+}
 
