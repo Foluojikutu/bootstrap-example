@@ -1,0 +1,38 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	 color:#9D6381;
+	 padding:20px;
+	}
+.navbar-default {
+    background-color: #9D6381;
+    border-color: white;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+h2{color:black;}
+p{color:black;}
+h3{color:black;}
+h4{color:#9D6381;}
+
+.main-text{color:black;}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #9D6381;
+    color: white;
+    text-align: center;
+}
+li
+{color:black;
+}
+
+.main-image {background-attachment: fixed;
+	background-position: center;
+}
+
+
